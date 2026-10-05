@@ -1,0 +1,22 @@
+# Local environment
+.venv/
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Large datasets (re-download with the project README script)
+projects/a1-1-customer-analysis/data/raw/
+projects/a1-1-customer-analysis/data/images/
+projects/a1-1-customer-analysis/data/sample/
+projects/a1-1-customer-analysis/data/processed/image_arrays.npy
+
+# Credentials
+kaggle.json
+.env
