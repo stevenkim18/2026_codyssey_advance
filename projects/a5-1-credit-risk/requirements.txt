@@ -1,0 +1,12 @@
+# A5-1 대출 심사 AI (Python 3.13 에서 확인)
+# 데이터 처리·모델링·시각화
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+
+# SMOTE (선택 허용 라이브러리)
+imbalanced-learn==0.14.2
+
+# 테스트
+pytest==9.1.1
