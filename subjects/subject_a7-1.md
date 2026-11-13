@@ -1,4 +1,4 @@
-# CV, NLP 자율 주제 프로젝트
+# A7-1. CV, NLP 자율 주제 프로젝트
 
 분야: AI/SW 심화  
 구분: Term Project  
