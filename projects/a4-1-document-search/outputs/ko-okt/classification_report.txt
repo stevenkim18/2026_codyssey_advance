@@ -1,0 +1,23 @@
+=== 분류 성능 평가 ===
+데이터: ko-okt
+모델: LogisticRegression(C=1.0, max_iter=2000, random_state=42), 특성: 직접 구현 TF-IDF (tf=raw, smooth_idf=True, l2, min_df=2, Train에서만 fit)
+분할: Train 5,600 / Test 1,400 (8:2, stratify, random_state=42)
+어휘 크기(Train 기준): 5,482
+
+정확도: 0.770
+F1-Score (macro): 0.770
+
+              precision    recall  f1-score   support
+
+        IT과학      0.738     0.815     0.774       200
+          경제      0.776     0.710     0.742       200
+          사회      0.561     0.575     0.568       200
+        생활문화      0.792     0.820     0.806       200
+          세계      0.804     0.740     0.771       200
+         스포츠      0.914     0.900     0.907       200
+          정치      0.818     0.830     0.824       200
+
+    accuracy                          0.770      1400
+   macro avg      0.772     0.770     0.770      1400
+weighted avg      0.772     0.770     0.770      1400
+

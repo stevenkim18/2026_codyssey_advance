@@ -1,0 +1,21 @@
+=== 분류 성능 평가 ===
+데이터: en
+모델: LogisticRegression(C=1.0, max_iter=2000, random_state=42), 특성: 직접 구현 TF-IDF (tf=raw, smooth_idf=True, l2, min_df=3, Train에서만 fit)
+분할: Train 3,716 / Test 930 (8:2, stratify, random_state=42)
+어휘 크기(Train 기준): 11,488
+
+정확도: 0.900
+F1-Score (macro): 0.900
+
+                    precision    recall  f1-score   support
+
+     comp.graphics      0.809     0.870     0.839       185
+    comp.windows.x      0.914     0.850     0.881       187
+rec.sport.baseball      0.948     0.907     0.927       182
+  rec.sport.hockey      0.951     0.931     0.941       189
+         sci.space      0.889     0.941     0.914       187
+
+          accuracy                          0.900       930
+         macro avg      0.902     0.900     0.900       930
+      weighted avg      0.902     0.900     0.900       930
+

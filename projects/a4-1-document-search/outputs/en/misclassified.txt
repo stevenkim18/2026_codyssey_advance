@@ -1,0 +1,466 @@
+=== 오분류 93건 (예측 확신도 높은 순) ===
+
+[en-03299] 예측: rec.sport.hockey (0.86) / 실제: rec.sport.baseball (0.07), 토큰 15개
+  문서: "In fact, he's a complete and total dickhead on at least 2 newsgroups (this one and rec.sport.hockey). Since hockey season is almost over, he's back to being a dickhead in r.s.bb."
+  예측 클래스 쪽 기여 단어: hockey(+1.93), season(+0.43), sport(+0.28), rec(+0.11), back(+0.11), least(+0.07)
+  실제 클래스 쪽 기여 단어: back(+0.16), season(+0.16), rec(+0.15), bb(+0.13), fact(+0.12), least(+0.06)
+
+[en-02121] 예측: sci.space (0.85) / 실제: comp.graphics (0.10), 토큰 22개
+  문서: "Look in the /pub/SPACE directory on ames.arc.nasa.gov - there are a number of earth images there. You may have to hunt around the subdirectories as things tend to be filed under the mission (ie, "APOLLO") rather than under the image subject."
+  예측 클래스 쪽 기여 단어: space(+0.83), nasa(+0.48), earth(+0.45), mission(+0.31), things(+0.15), rather(+0.13)
+  실제 클래스 쪽 기여 단어: image(+0.51), images(+0.35), number(+0.19), directory(+0.12), ie(+0.09), pub(+0.08)
+
+[en-02007] 예측: comp.graphics (0.76) / 실제: comp.windows.x (0.12), 토큰 17개
+  문서: "How do I view .eps files on X? I have an image in color encapsulated postscript, and need to view it on my screen. Are there any utilities that will let me convert between encapsulated postscript and plain postscript?"
+  예측 클래스 쪽 기여 단어: image(+0.46), postscript(+0.43), files(+0.34), screen(+0.26), convert(+0.18), color(+0.15)
+  실제 클래스 쪽 기여 단어: postscript(+0.30), color(+0.20), screen(+0.09), utilities(+0.04), view(+0.03), convert(+0.02)
+
+[en-02983] 예측: comp.graphics (0.69) / 실제: comp.windows.x (0.16), 토큰 35개
+  문서: "Check into the vopl and vogle libraries. I beleive that I still have them available on ftp.c-mols.siu.edu but I'm not sure. I haven't seen any new announcements for the software but I'm sure it's still around. I have used it to do real-time data display and analysis as well as just for producing gra…"
+  예측 클래스 쪽 기여 단어: graphics(+0.60), formats(+0.19), software(+0.19), available(+0.18), ftp(+0.17), works(+0.13)
+  실제 클래스 쪽 기여 단어: display(+0.28), libraries(+0.12), tried(+0.10), software(+0.07), works(+0.07), output(+0.06)
+
+[en-01037] 예측: comp.graphics (0.69) / 실제: comp.windows.x (0.08), 토큰 33개
+  문서: "For those of you who couldn't find X-Appeal, it is availible at the following sitex: ascwide.ascii.co.jp in the /pub/MSDOS/xappeal dir wuarchive.wustl.edu in the /mirrors4/garbo.uwasa.fi/demo directory The three files are xap13exe.aip, xap10fon.zip and drivers.zip. Josh"
+  예측 클래스 쪽 기여 단어: zip(+0.34), files(+0.27), drivers(+0.17), exe(+0.16), wuarchive(+0.13), msdos(+0.13)
+  실제 클래스 쪽 기여 단어: following(+0.10), find(+0.07), edu(+0.05), demo(+0.03), directory(+0.02), dir(+0.02)
+
+[en-03200] 예측: comp.graphics (0.68) / 실제: comp.windows.x (0.12), 토큰 35개
+  문서: "I have heard of two packages for the PC that support X-Win. The first is Linux which is a free Unix Package. The Second is X-Appeal, which sounds pretty good. It can be found at garbo.uwusa.fi in the ~ftp/pc/demo/ dir. The files are xap13exe.zip xap10fon.zip drivers.zip This should get you started. …"
+  예측 클래스 쪽 기여 단어: zip(+0.47), pc(+0.32), files(+0.25), drivers(+0.16), exe(+0.15), ftp(+0.14)
+  실제 클래스 쪽 기여 단어: linux(+0.20), unix(+0.11), pc(+0.11), support(+0.10), package(+0.09), found(+0.05)
+
+[en-03460] 예측: comp.graphics (0.65) / 실제: comp.windows.x (0.31), 토큰 61개
+  문서: "Hi All! I tried to run SoftPC, a PC emulation software program, installed on a Silicon Graphics workstation from a Human Design System (HDS) X terminal, and everything went fine, except the fonts could NOT be converted from one type of format to the other - HDS uses different font format from SGI wo…"
+  예측 클래스 쪽 기여 단어: format(+0.57), graphics(+0.40), program(+0.25), help(+0.14), formats(+0.13), software(+0.13)
+  실제 클래스 쪽 기여 단어: font(+0.46), help(+0.16), terminal(+0.13), fonts(+0.12), program(+0.12), hi(+0.12)
+
+[en-03049] 예측: comp.graphics (0.60) / 실제: sci.space (0.10), 토큰 14개
+  문서: "Has someone scanned in an artist's rendering of Aurora? If so, is the GIF available somewhere? Please reply via email. Thanks, Craig"
+  예측 클래스 쪽 기여 단어: gif(+0.32), rendering(+0.30), available(+0.27), please(+0.23), craig(+0.17), email(+0.15)
+  실제 클래스 쪽 기여 단어: via(+0.09), somewhere(+0.08), someone(+0.07), reply(+0.04)
+
+[en-01047] 예측: comp.graphics (0.57) / 실제: comp.windows.x (0.30), 토큰 55개
+  문서: "<It seems silly, but while I've located things like tgif that can edit <gif files, and various tools to convert to/from gif format, I haven't <been able to locate a program that just opens a window and displays a <gif file in it. I've looked thru various faq files, also to no avail. <Is there one lu…"
+  예측 클래스 쪽 기여 단어: gif(+0.50), files(+0.37), format(+0.18), file(+0.15), version(+0.12), formats(+0.12)
+  실제 클래스 쪽 기여 단어: window(+0.35), locate(+0.18), file(+0.13), xv(+0.13), displays(+0.10), version(+0.10)
+
+[en-03917] 예측: comp.graphics (0.56) / 실제: rec.sport.baseball (0.10), 토큰 5개
+  문서: "If anyone knows of such a site could they please send it to me also. thanks"
+  예측 클래스 쪽 기여 단어: please(+0.45), site(+0.43), knows(+0.36), thanks(+0.24)
+  실제 클래스 쪽 기여 단어: knows(+0.06)
+
+[en-01978] 예측: comp.graphics (0.56) / 실제: comp.windows.x (0.32), 토큰 31개
+  문서: "-- Hi netland, I thought that I once read about the existance of a virtual mwm like vtwm. On the usual ftp sites (gatakeeper.dec.com, export.lcs.mit.edu) I can't find any trace of this program. Could anybody give me a hint where to find this program or confirm/deny the existance of this program. Reg…"
+  예측 클래스 쪽 기여 단어: program(+0.57), ftp(+0.17), find(+0.16), virtual(+0.16), hi(+0.16), sites(+0.15)
+  실제 클래스 쪽 기여 단어: mit(+0.34), program(+0.27), hi(+0.18), find(+0.14), export(+0.12), anybody(+0.11)
+
+[en-04218] 예측: comp.windows.x (0.55) / 실제: comp.graphics (0.36), 토큰 21개
+  문서: "I'm looking for any leads to the source of a good Windows Meta File converter or interpreter. I need this for use outside the Windows environment. PD sources preferred, but not a requirement. Please reply to the address below."
+  예측 클래스 쪽 기여 단어: windows(+0.78), use(+0.29), file(+0.25), source(+0.23), sources(+0.13), environment(+0.11)
+  실제 클래스 쪽 기여 단어: file(+0.28), converter(+0.23), looking(+0.22), please(+0.17), windows(+0.16), need(+0.15)
+
+[en-04265] 예측: comp.graphics (0.53) / 실제: comp.windows.x (0.30), 토큰 29개
+  문서: "Hi folks, Can anyone give me some information, the location of some information, or some reference material for the following file formats: WIFF, MO;DCA/IOCA, PCX. If this is not quite the appropriate place to ask such questions, please let me know a more appropriate one and accept my apologies in a…"
+  예측 클래스 쪽 기여 단어: file(+0.26), formats(+0.21), hi(+0.16), information(+0.15), please(+0.15), pcx(+0.12)
+  실제 클래스 쪽 기여 단어: file(+0.23), hi(+0.19), thanks(+0.17), help(+0.13), information(+0.12), following(+0.12)
+
+[en-00890] 예측: comp.windows.x (0.53) / 실제: comp.graphics (0.22), 토큰 24개
+  문서: "We have a minivas-2 and we want to record to an Abekas A66. We have most of the functions working but when we go to set up a record the minivas hangs. We are sending the abekas SMPTE time code. Does anyone have code we can compare to what we have done and is there and ftp site for minivas and abekas…"
+  예측 클래스 쪽 기여 단어: code(+0.80), set(+0.28), functions(+0.19), done(+0.07), working(+0.06), sending(+0.03)
+  실제 클래스 쪽 기여 단어: code(+0.35), ftp(+0.20), site(+0.16), phillips(+0.05), working(+0.02)
+
+[en-00698] 예측: comp.graphics (0.53) / 실제: comp.windows.x (0.29), 토큰 55개
+  문서: "Hello, I hope this is the right group to post this in. I've got a little problem. I finally managed to get a REAL operating system (Linux, as opposed to MS-Dos) and I like it alot. But, when I try to run 'startx', I get a strange response: My monitor goes into graphics mode and I get this big white …"
+  예측 클래스 쪽 기여 단어: graphics(+0.44), screen(+0.16), help(+0.16), mode(+0.15), mhz(+0.13), dos(+0.12)
+  실제 클래스 쪽 기여 단어: help(+0.17), linux(+0.17), problem(+0.12), run(+0.10), try(+0.09), system(+0.08)
+
+[en-03135] 예측: comp.graphics (0.52) / 실제: comp.windows.x (0.19), 토큰 14개
+  문서: "ICS - Integrated Computer Solutions Incorporated 201 Broadway Cambridge, MA 02139 Vox: (617) 621-0060 Fax: (617) 621-9555 Email: <email> Circle 9 on Reader Service Card"
+  예측 클래스 쪽 기여 단어: computer(+0.55), card(+0.34), email(+0.13), circle(+0.10), solutions(+0.10), reader(+0.06)
+  실제 클래스 쪽 기여 단어: fax(+0.14), email(+0.14), ics(+0.09), solutions(+0.03), integrated(+0.03), cambridge(+0.00)
+
+[en-04674] 예측: comp.graphics (0.52) / 실제: comp.windows.x (0.31), 토큰 34개
+  문서: ": It seems silly, but while I've located things like tgif that can edit : gif files, and various tools to convert to/from gif format, I haven't : been able to locate a program that just opens a window and displays a : gif file in it. I've looked thru various faq files, also to no avail. : Is there o…"
+  예측 클래스 쪽 기여 단어: gif(+0.49), files(+0.48), format(+0.23), file(+0.19), program(+0.15), picture(+0.13)
+  실제 클래스 쪽 기여 단어: window(+0.46), file(+0.17), tools(+0.12), locate(+0.12), faq(+0.08), program(+0.07)
+
+[en-04346] 예측: sci.space (0.49) / 실제: rec.sport.baseball (0.22), 토큰 144개
+  문서: "And you know what? There is no such method inherent in real life either. So I would assume you would endorse the notion that we cannot state, with any level of objectivity, that Mother Theresa has accomplished more good in this world than Joseph Stalin. After all, life on earth is a team effort. Hav…"
+  예측 클래스 쪽 기여 단어: planet(+0.24), life(+0.18), world(+0.16), earth(+0.14), billion(+0.09), people(+0.07)
+  실제 클래스 쪽 기여 단어: team(+0.16), year(+0.10), morris(+0.10), jays(+0.09), rest(+0.07), al(+0.06)
+
+[en-03388] 예측: comp.windows.x (0.49) / 실제: sci.space (0.18), 토큰 11개
+  문서: "To compute this, and many other astronomical things, go and get (x)ephem written by Elwood C. Downey. It is e.g. on export.lcs.mit.edu"
+  예측 클래스 쪽 기여 단어: mit(+0.56), export(+0.21), lcs(+0.18), written(+0.16), edu(+0.10), things(+0.01)
+  실제 클래스 쪽 기여 단어: things(+0.21), astronomical(+0.09), compute(+0.06), downey(+0.00)
+
+[en-04562] 예측: comp.windows.x (0.48) / 실제: comp.graphics (0.12), 토큰 19개
+  문서: "What I'd like to see is the more generic N-dimensional widget set. I realize, that there wouldn't be a whole shitload of people who'd want more than 3, but why stop? All I need is a Widget with up to N viewports showing me different 3-D or 2-D slices of my stuff. alter, pat"
+  예측 클래스 쪽 기여 단어: widget(+1.10), set(+0.33), stuff(+0.05), different(+0.01), stop(+0.01)
+  실제 클래스 쪽 기여 단어: need(+0.17), generic(+0.06), showing(+0.06), dimensional(+0.05), stuff(+0.02), different(+0.01)
+
+[en-01605] 예측: rec.sport.baseball (0.47) / 실제: rec.sport.hockey (0.45), 토큰 41개
+  문서: "What, did you leave the room each of the 100 or so times they said that there WERE NO OTHER NIGHT BASEBALL GAMES? Every break they took back at the studio mentioned it, followed by 'so...we're gonna show you hockey instead.' My wife and I are hoping for rain at every baseball game they have a feed f…"
+  예측 클래스 쪽 기여 단어: baseball(+1.54), games(+0.17), game(+0.15), last(+0.12), wife(+0.08), back(+0.08)
+  실제 클래스 쪽 기여 단어: hockey(+0.96), night(+0.29), game(+0.28), games(+0.17), last(+0.09), show(+0.08)
+
+[en-02610] 예측: rec.sport.hockey (0.47) / 실제: rec.sport.baseball (0.31), 토큰 44개
+  문서: "Here's a few two-sport star trivia questions. I'll admit they're not too difficult, but a bit challenging nevertheless. Mail me your answers please; or post them. 1. Which pitcher played for the Harlem Globetrotters? 2. Which major leaguer briefly tried professional golf in 1978? 3. Which does Dieon…"
+  예측 클래스 쪽 기여 단어: hockey(+0.51), sport(+0.30), played(+0.30), player(+0.20), golf(+0.10), post(+0.06)
+  실제 클래스 쪽 기여 단어: baseball(+0.41), pitcher(+0.29), career(+0.17), player(+0.07), post(+0.07), two(+0.06)
+
+[en-02190] 예측: comp.graphics (0.45) / 실제: comp.windows.x (0.30), 토큰 21개
+  문서: "I'm new to the hardware and with a mandate to port some X-based stereo-video software --- does anyone know of or have experience with X on Amiga machines? If I can retain the X event handling, it would ease my plight considerably, and if I can keep all the Motif bits, so much the better!"
+  예측 클래스 쪽 기여 단어: video(+0.31), software(+0.23), hardware(+0.21), amiga(+0.20), bits(+0.17), stereo(+0.14)
+  실제 클래스 쪽 기여 단어: motif(+0.59), event(+0.20), machines(+0.12), software(+0.09), based(+0.08), experience(+0.07)
+
+[en-01445] 예측: rec.sport.hockey (0.43) / 실제: rec.sport.baseball (0.36), 토큰 24개
+  문서: "The tribe will be in town from April 16 to the 19th. There are ALWAYS tickets available! (Though they are playing Toronto, and many Toronto fans make the trip to Cleveland as it is easier to get tickets in Cleveland than in Toronto. Either way, I seriously doubt they will sell out until the end of t…"
+  예측 클래스 쪽 기여 단어: toronto(+0.49), season(+0.27), playing(+0.20), fans(+0.17), april(+0.09), always(+0.09)
+  실제 클래스 쪽 기여 단어: tickets(+0.37), cleveland(+0.32), th(+0.13), season(+0.10), toronto(+0.08), fans(+0.07)
+
+[en-01598] 예측: comp.graphics (0.42) / 실제: comp.windows.x (0.26), 토큰 42개
+  문서: "This discussion on viewing .ps files undex X11 seems rather interesting but I fail to understand the reason it is not contained in 2 at most newsgroups. I am subscribed to comp.text.interleaf and I could care less about .ps viewing under X11. I am sure that members of this group interested in the to…"
+  예측 클래스 쪽 기여 단어: comp(+0.25), files(+0.21), looking(+0.13), viewing(+0.11), please(+0.10), newsgroups(+0.10)
+  실제 클래스 쪽 기여 단어: text(+0.31), comp(+0.14), ps(+0.14), interleaf(+0.09), group(+0.07), remove(+0.06)
+
+[en-04312] 예측: rec.sport.hockey (0.42) / 실제: rec.sport.baseball (0.34), 토큰 11개
+  문서: "How about changing team names! Post your choices! Here I'll start: How about the Baltimore Baseblazers San Francisco Quakes"
+  예측 클래스 쪽 기여 단어: team(+0.54), names(+0.34), san(+0.13), post(+0.13), changing(+0.05), choices(+0.01)
+  실제 클래스 쪽 기여 단어: team(+0.35), baltimore(+0.22), post(+0.15), start(+0.14), san(+0.09), francisco(+0.07)
+
+[en-03625] 예측: comp.windows.x (0.41) / 실제: comp.graphics (0.23), 토큰 17개
+  문서: "You also have a severe problem with news headers. FTP to cs.purdue.edu:pub/vanecek and pull proxima.tar.Z and proxima.ps.Z. Tres spif. --"
+  예측 클래스 쪽 기여 단어: problem(+0.24), tar(+0.22), ps(+0.14), headers(+0.13), cs(+0.09), edu(+0.09)
+  실제 클래스 쪽 기여 단어: ftp(+0.25), edu(+0.13), problem(+0.10), pub(+0.09), tar(+0.02)
+
+[en-00772] 예측: comp.graphics (0.41) / 실제: comp.windows.x (0.38), 토큰 13개
+  문서: "Hello, Has anyone built cxterm (X11R5) on a MIPS platform. If you have, please send me email as I don't read this group. I've a bunch of questions... :-) Thanks"
+  예측 클래스 쪽 기여 단어: please(+0.25), hello(+0.19), email(+0.17), thanks(+0.13), mips(+0.12), built(+0.12)
+  실제 클래스 쪽 기여 단어: thanks(+0.27), email(+0.18), group(+0.16), bunch(+0.10), please(+0.09), hello(+0.08)
+
+[en-04193] 예측: comp.graphics (0.40) / 실제: comp.windows.x (0.27), 토큰 13개
+  문서: "Hi everyone, Does anyone know a good way to adjust colourmaps on the fly (say during an animation) and prevent the current set of colours from flickering? Thanks,"
+  예측 클래스 쪽 기여 단어: animation(+0.46), hi(+0.26), colours(+0.23), thanks(+0.13), good(+0.10), current(+0.02)
+  실제 클래스 쪽 기여 단어: set(+0.41), hi(+0.29), thanks(+0.27), prevent(+0.01)
+
+[en-03425] 예측: comp.graphics (0.40) / 실제: comp.windows.x (0.36), 토큰 15개
+  문서: "Check out a program called PC-Xview. I've used it before, and from what I can tell, it's exactly what you're looking for. Last I checked, you should be able to find it for about $160 a copy. -Eric"
+  예측 클래스 쪽 기여 단어: program(+0.32), pc(+0.32), looking(+0.30), find(+0.14), check(+0.10), checked(+0.09)
+  실제 클래스 쪽 기여 단어: xview(+0.27), copy(+0.21), program(+0.15), find(+0.12), pc(+0.11), used(+0.09)
+
+[en-02217] 예측: comp.graphics (0.40) / 실제: sci.space (0.22), 토큰 23개
+  문서: "Nowadays, usually with a computer. No theory predicted the numeric discoveries listed above. No one can yet write an algorithm that will predict the precise behavior of any of these at any precise level of their evolution. So it remains for experimenters to gather data on their behavior. Gary"
+  예측 클래스 쪽 기여 단어: computer(+0.38), algorithm(+0.23), write(+0.12), yet(+0.06), nowadays(+0.05), data(+0.04)
+  실제 클래스 쪽 기여 단어: data(+0.12), theory(+0.08), gather(+0.06), experimenters(+0.05), level(+0.04), remains(+0.01)
+
+[en-04209] 예측: comp.windows.x (0.40) / 실제: comp.graphics (0.27), 토큰 13개
+  문서: "The real problem w/ the Stealth from what I've heard is that Diamond won't tell anyone how to program their proprietary clock stuff, so X under Linux and 386BSD won't run...."
+  예측 클래스 쪽 기여 단어: linux(+0.34), problem(+0.24), run(+0.20), bsd(+0.15), program(+0.13), stuff(+0.06)
+  실제 클래스 쪽 기여 단어: program(+0.28), diamond(+0.12), problem(+0.10), proprietary(+0.06), run(+0.06), clock(+0.05)
+
+[en-03395] 예측: comp.graphics (0.39) / 실제: comp.windows.x (0.21), 토큰 6개
+  문서: "Hello networld, I'm looking for an X mailreader. Is there a Xelm? Andreas"
+  예측 클래스 쪽 기여 단어: looking(+0.52), hello(+0.31)
+  실제 클래스 쪽 기여 단어: looking(+0.13), hello(+0.13)
+
+[en-02732] 예측: sci.space (0.39) / 실제: rec.sport.hockey (0.21), 토큰 12개
+  문서: ": [ a whole lot of completely ignorant stuff about Pitt. ] Give this guy a drug test, and some Ridalin whale you are at it."
+  예측 클래스 쪽 기여 단어: test(+0.22), ignorant(+0.20), stuff(+0.14), whole(+0.09), lot(+0.05), drug(+0.04)
+  실제 클래스 쪽 기여 단어: pitt(+0.17), guy(+0.12), completely(+0.08), give(+0.05), drug(+0.02)
+
+[en-04199] 예측: comp.graphics (0.39) / 실제: comp.windows.x (0.35), 토큰 20개
+  문서: "I need the tool described in the subject line. Is there such a tool available via ftp? If so, I'd appreciate it if someone could e-mail me the location and pathname. Thanks. ------------- Saad Mufti Personal Library Software"
+  예측 클래스 쪽 기여 단어: library(+0.26), software(+0.22), available(+0.20), ftp(+0.20), need(+0.15), mail(+0.14)
+  실제 클래스 쪽 기여 단어: tool(+0.29), thanks(+0.18), saad(+0.10), mufti(+0.10), via(+0.09), software(+0.08)
+
+[en-00484] 예측: rec.sport.baseball (0.39) / 실제: comp.graphics (0.19), 토큰 34개
+  문서: "Hello, I've been on the DKBtrace/PoVray mailing list out of trearn.bitnet for some time now, but when I tried to post the other day the listserv told me that the list doesn't exist! So I got a global list of groups from the listserv and - - NOTHING! I grepped every string I could think of. If Frank,…"
+  예측 클래스 쪽 기여 단어: list(+0.45), mailing(+0.20), day(+0.15), frank(+0.10), post(+0.07), time(+0.06)
+  실제 클래스 쪽 기여 단어: povray(+0.14), please(+0.12), regards(+0.11), hello(+0.09), groups(+0.06), told(+0.06)
+
+[en-00334] 예측: sci.space (0.39) / 실제: comp.graphics (0.20), 토큰 161개
+  문서: "No. That's *not* what I was complaining about, nor did I intend to suggest that DEC was any better than SGI (let me tell you about the Lynx some day, but be prepared with a large sedative if you do...). My comment regarding DEC was to indicate that I might be open to other vendors that supported Ope…"
+  예측 클래스 쪽 기여 단어: money(+0.22), nasa(+0.14), rather(+0.08), us(+0.07), big(+0.06), dark(+0.05)
+  실제 클래스 쪽 기여 단어: sgi(+0.26), buy(+0.11), version(+0.07), looking(+0.07), dec(+0.06), spl(+0.06)
+
+[en-00193] 예측: comp.windows.x (0.39) / 실제: comp.graphics (0.38), 토큰 6개
+  문서: "Is there a precompiled version of hp2xx for DOS out there - prefereably for 386/486?"
+  예측 클래스 쪽 기여 단어: hp(+0.58), version(+0.41), dos(+0.03), xx(+0.02)
+  실제 클래스 쪽 기여 단어: version(+0.52), dos(+0.42), xx(+0.08)
+
+[en-00113] 예측: comp.windows.x (0.38) / 실제: rec.sport.baseball (0.22), 토큰 6개
+  문서: "Hi- Does anybody know the # for ticket info for Fenway? Thanks"
+  예측 클래스 쪽 기여 단어: hi(+0.39), thanks(+0.35), anybody(+0.24), info(+0.10)
+  실제 클래스 쪽 기여 단어: ticket(+0.32), fenway(+0.20), info(+0.05)
+
+[en-01639] 예측: comp.graphics (0.38) / 실제: comp.windows.x (0.31), 토큰 25개
+  문서: "Hi, is there any script/program/thelike already existing which could transform the output of x11perfcomp (a huge table) into a nice 3d'ish diagram or graph by producing postscript output from x11perfcomp input ? Maybe someone has already written such beast ..."
+  예측 클래스 쪽 기여 단어: program(+0.20), hi(+0.16), output(+0.15), transform(+0.14), postscript(+0.13), input(+0.08)
+  실제 클래스 쪽 기여 단어: hi(+0.18), output(+0.13), script(+0.10), written(+0.10), program(+0.09), postscript(+0.09)
+
+[en-01099] 예측: comp.windows.x (0.38) / 실제: comp.graphics (0.35), 토큰 7개
+  문서: "Does anyone out there have or know of, line drawing USA map? Thanks very much in advance, Hoi"
+  예측 클래스 쪽 기여 단어: drawing(+0.40), thanks(+0.40), advance(+0.24), line(+0.08)
+  실제 클래스 쪽 기여 단어: map(+0.37), advance(+0.21), thanks(+0.20), line(+0.15)
+
+[en-01827] 예측: comp.windows.x (0.38) / 실제: comp.graphics (0.32), 토큰 38개
+  문서: "Up until last week, I have been running POVray v1.0 on my 486/33 under DOS5 without any major problems. Over Easter I increased the memory from 4Meg to 8Meg, and found that POVray reboots the system every time under DOS5. I had a go at running POVray in a DOS window when running Win3.1 on the same s…"
+  예측 클래스 쪽 기여 단어: running(+0.38), window(+0.36), system(+0.14), using(+0.13), slower(+0.07), meg(+0.04)
+  실제 클래스 쪽 기여 단어: povray(+0.40), dos(+0.40), works(+0.08), fine(+0.05), memory(+0.04), using(+0.04)
+
+[en-01596] 예측: comp.graphics (0.37) / 실제: rec.sport.baseball (0.30), 토큰 21개
+  문서: "I'm looking for software (hopefully free and runs on Unix box) which will keep track of statistics for my company softball team (batting avg. etc.). If you know of any please post or respond to me by e-mail. Many thanks."
+  예측 클래스 쪽 기여 단어: software(+0.26), looking(+0.25), please(+0.19), unix(+0.17), mail(+0.16), thanks(+0.11)
+  실제 클래스 쪽 기여 단어: batting(+0.36), runs(+0.36), team(+0.26), post(+0.11), statistics(+0.08), avg(+0.07)
+
+[en-02248] 예측: comp.graphics (0.37) / 실제: comp.windows.x (0.25), 토큰 5개
+  문서: "Or the library might be there but not pointed to by LD_LIBRARY_PATH."
+  예측 클래스 쪽 기여 단어: library(+0.90), path(+0.05)
+  실제 클래스 쪽 기여 단어: ld(+0.27), library(+0.10), path(+0.08)
+
+[en-03416] 예측: comp.graphics (0.36) / 실제: comp.windows.x (0.27), 토큰 46개
+  문서: "same here I received similar information/advice about what appears to be the same problem Benjamin has (and I still have). NIS has all the information about the Macs (I even put explicit entries in /etc/hosts to no avail). Monitoring with 'snoop' on my Classic, the initial REXEC packet is sent to th…"
+  예측 클래스 쪽 기여 단어: mac(+0.31), number(+0.11), information(+0.11), university(+0.07), macs(+0.07), etc(+0.06)
+  실제 클래스 쪽 기여 단어: sun(+0.22), problem(+0.13), uk(+0.10), information(+0.09), readme(+0.06), appears(+0.05)
+
+[en-00543] 예측: sci.space (0.36) / 실제: comp.graphics (0.33), 토큰 17개
+  문서: "Are complex bio-medical images available anywhere on the net for experimentation? By complex I mean that every sampled data point has a magnitude and phase information both."
+  예측 클래스 쪽 기여 단어: phase(+0.18), data(+0.15), complex(+0.12), magnitude(+0.10), images(+0.07), every(+0.04)
+  실제 클래스 쪽 기여 단어: images(+0.33), available(+0.20), point(+0.18), information(+0.08), data(+0.05), mean(+0.04)
+
+[en-02393] 예측: comp.graphics (0.36) / 실제: comp.windows.x (0.26), 토큰 14개
+  문서: "I'm going to be purchasing one of these soom for my SS2. Does anyone have any experience with this card? Positive or negative comments welcome! Please respond immediately. Thanks, Joe"
+  예측 클래스 쪽 기여 단어: card(+0.36), please(+0.20), purchasing(+0.12), thanks(+0.11), negative(+0.06), respond(+0.04)
+  실제 클래스 쪽 기여 단어: thanks(+0.23), welcome(+0.11), experience(+0.09), please(+0.07), negative(+0.04), positive(+0.04)
+
+[en-00252] 예측: comp.graphics (0.36) / 실제: sci.space (0.22), 토큰 37개
+  문서: "Hi Folks not exactly certain if this is the best place to ask, but I am searching for a summer internship in engineering. I will be graduating in early May with a B.S. in aerospace engineering and then pursuing my Masters this Fall .Does anyone know of anything that is available, I am in the process…"
+  예측 클래스 쪽 기여 단어: available(+0.16), anything(+0.15), hi(+0.14), mail(+0.11), knows(+0.10), searching(+0.08)
+  실제 클래스 쪽 기여 단어: engineering(+0.17), aerospace(+0.11), companies(+0.10), process(+0.06), exactly(+0.05), early(+0.05)
+
+[en-02596] 예측: rec.sport.baseball (0.35) / 실제: sci.space (0.21), 토큰 19개
+  문서: "My first thought is Ross Perot. After further consideration, I think he'd be more likely to try to win it...but come in a disappointing third. Try Bill Gates. Try Sam Walton's kids. Matt"
+  예측 클래스 쪽 기여 단어: matt(+0.19), win(+0.14), bill(+0.13), kids(+0.11), sam(+0.10), first(+0.10)
+  실제 클래스 쪽 기여 단어: thought(+0.09), ross(+0.07), gates(+0.06), perot(+0.05), bill(+0.05), likely(+0.03)
+
+[en-02859] 예측: rec.sport.hockey (0.35) / 실제: rec.sport.baseball (0.25), 토큰 28개
+  문서: "hmm - i thought francesca's predictions ALWAYS hovered at or below .500, especially in the nfl. (not counting college football bowl day). he's a nice analyst for explaining past tense, and for mapping out what plays teams might do - but for predicting the future, he only looks good whne compared to …"
+  예측 클래스 쪽 기여 단어: teams(+0.19), predictions(+0.10), always(+0.10), plays(+0.09), college(+0.06), analyst(+0.05)
+  실제 클래스 쪽 기여 단어: day(+0.18), teams(+0.10), football(+0.06), hmm(+0.05), past(+0.04), compared(+0.04)
+
+[en-00531] 예측: comp.windows.x (0.35) / 실제: comp.graphics (0.27), 토큰 33개
+  문서: "I'm looking for code that will generate a minimum-volume oriented bounding box for an arbitrary polyhedron. Anyone know of such code? Why? I'm converting objects from one modelling system into another, and the destination system is object oriented. So I want to represent each object in its own coord…"
+  예측 클래스 쪽 기여 단어: code(+0.32), system(+0.31), converting(+0.09), box(+0.06), bounding(+0.04), used(+0.04)
+  실제 클래스 쪽 기여 단어: objects(+0.26), code(+0.14), looking(+0.13), object(+0.06), arbitrary(+0.06), modelling(+0.04)
+
+[en-01351] 예측: sci.space (0.34) / 실제: rec.sport.hockey (0.23), 토큰 13개
+  문서: "And won't they have to change their name to the "Steelers" or something. The only significant deposits of oil around Hamilton are those caused by the tire fire a few years back."
+  예측 클래스 쪽 기여 단어: oil(+0.23), caused(+0.09), years(+0.07), around(+0.07), significant(+0.04), name(+0.03)
+  실제 클래스 쪽 기여 단어: hamilton(+0.22), back(+0.12), years(+0.10), fire(+0.03), name(+0.03), change(+0.02)
+
+[en-04407] 예측: comp.graphics (0.34) / 실제: sci.space (0.24), 토큰 22개
+  문서: "The NASM photo archives are open to the public. All (or almost all) still pictures in the collection are available for viewing, but I don't know about films. At least it might be worth a try. I'm not sure if appointments are necessary, but I think not. Good luck, and let us know what you find."
+  예측 클래스 쪽 기여 단어: available(+0.22), pictures(+0.14), find(+0.10), viewing(+0.10), collection(+0.10), good(+0.07)
+  실제 클래스 쪽 기여 단어: us(+0.22), luck(+0.07), pictures(+0.05), almost(+0.04), least(+0.02), photo(+0.02)
+
+[en-01261] 예측: comp.windows.x (0.34) / 실제: comp.graphics (0.32), 토큰 41개
+  문서: "I'd be happy to US (international) Snail mail technical information on imaging databases to anyone who needs it, if you can provide me with your address for hard copy (not Email). We're focusing mostly on Open PACE, Oracle, Ingres, Adabas, Sybase, and Gupta, regarding our imaging databases installed…"
+  예측 클래스 쪽 기여 단어: installed(+0.21), hp(+0.18), unix(+0.11), visual(+0.10), copy(+0.10), email(+0.08)
+  실제 클래스 쪽 기여 단어: databases(+0.11), unix(+0.10), mail(+0.10), address(+0.08), email(+0.08), rs(+0.07)
+
+[en-01636] 예측: sci.space (0.34) / 실제: rec.sport.baseball (0.27), 토큰 60개
+  문서: "Good question. It's my impression, not backed by evidence, that general south-of-the-borderness seems to exempt one from the hiring-firing effect I was talking about. Back in the 20's there were some attempts to hire black Cuban ballplayers; they were rejected by the commissioner and others. Well, w…"
+  예측 클래스 쪽 기여 단어: military(+0.13), talking(+0.10), evidence(+0.06), legal(+0.06), laws(+0.05), question(+0.05)
+  실제 클래스 쪽 기여 단어: list(+0.12), length(+0.08), back(+0.07), ballplayers(+0.05), come(+0.04), black(+0.04)
+
+[en-03944] 예측: sci.space (0.34) / 실제: rec.sport.hockey (0.18), 토큰 23개
+  문서: ": : Speaking of Paddock--what's he doing slagging Sandlak? If Sandlak puts : his mind to it, he can be a physical presence and waking him up might be a : real mistake. Isn't Sandbag out with an injury now anyways? Perhaps Paddock meant to say that Momesso was the cheap short artist. After all, that …"
+  예측 클래스 쪽 기여 단어: mind(+0.14), real(+0.09), perhaps(+0.08), presence(+0.07), short(+0.07), speaking(+0.04)
+  실제 클래스 쪽 기여 단어: injury(+0.12), cheap(+0.10), physical(+0.02), anyways(+0.02), puts(+0.01), mistake(+0.01)
+
+[en-02595] 예측: comp.graphics (0.34) / 실제: sci.space (0.27), 토큰 50개
+  문서: "Hello, All! I apologize, I haven't published my astro FTP list since March. Now I haven't tested all the sites included into the list. I would notified all the people, you have stored some older issues of my, there are now lots of changes. Many sites have gone away: They either do not exist any more…"
+  예측 클래스 쪽 기여 단어: sites(+0.29), version(+0.13), ftp(+0.11), regards(+0.09), thank(+0.08), hello(+0.07)
+  실제 클래스 쪽 기여 단어: astro(+0.21), people(+0.12), exist(+0.07), new(+0.06), stuff(+0.06), ion(+0.04)
+
+[en-02905] 예측: rec.sport.baseball (0.33) / 실제: sci.space (0.27), 토큰 13개
+  문서: "Wanna bet ??? You must be too young to remember Bob Askin :-) Read the Costigan commision report if you want to know about corruption in OZ."
+  예측 클래스 쪽 기여 단어: young(+0.21), bob(+0.20), remember(+0.13), report(+0.04), wanna(+0.02), read(+0.02)
+  실제 클래스 쪽 기여 단어: bet(+0.16), remember(+0.11), report(+0.08), wanna(+0.05), must(+0.00)
+
+[en-04722] 예측: sci.space (0.33) / 실제: comp.graphics (0.14), 토큰 6개
+  문서: "But the Question was later revealed to be: What is 9 x 6? (In the base 13 system, of course.)"
+  예측 클래스 쪽 기여 단어: system(+0.20), question(+0.17), base(+0.06), course(+0.04), revealed(+0.02)
+  실제 클래스 쪽 기여 단어: question(+0.11)
+
+[en-04269] 예측: sci.space (0.33) / 실제: comp.windows.x (0.16), 토큰 36개
+  문서: "-| -| Alas, we too will have to stop using it. -| -| Brian -| -- -| Brian Glendenning - National Radio Astronomy Observatory -| <email> Charlottesville Va. (804) 296-0286 It says in the licence that non-profit organisations have the rights to copy, use, distribute etc.. Does that not cover NRAO ? I …"
+  예측 클래스 쪽 기여 단어: rights(+0.17), astronomy(+0.15), us(+0.15), observatory(+0.11), profit(+0.08), radio(+0.04)
+  실제 클래스 쪽 기여 단어: use(+0.21), using(+0.18), copy(+0.11), licence(+0.06), etc(+0.05), please(+0.04)
+
+[en-01808] 예측: comp.graphics (0.33) / 실제: comp.windows.x (0.26), 토큰 6개
+  문서: "Does XFree86 support any EISA video cards under Dell 2.2?"
+  예측 클래스 쪽 기여 단어: video(+0.47), cards(+0.14), eisa(+0.10), support(+0.07)
+  실제 클래스 쪽 기여 단어: xfree(+0.32), support(+0.22), eisa(+0.06), dell(+0.00)
+
+[en-00832] 예측: comp.graphics (0.33) / 실제: sci.space (0.23), 토큰 19개
+  문서: "There is an excellent software program called Astro.calc that does that and much more. The latest address I have is MMI Corporation PO Box 19907 Baltimore, MD 21211 Phone (301) 366-1222 -- ------------------------------------------------------------------------------- Van E. Neie <email> Purdue Univ…"
+  예측 클래스 쪽 기여 단어: software(+0.23), program(+0.23), phone(+0.14), address(+0.12), university(+0.11), latest(+0.05)
+  실제 클래스 쪽 기여 단어: astro(+0.19), calc(+0.05), called(+0.03), software(+0.02), program(+0.02), po(+0.01)
+
+[en-00692] 예측: comp.graphics (0.33) / 실제: comp.windows.x (0.32), 토큰 14개
+  문서: "Does anyone know of any recent information on the Frescoe work being done by the Consortium? I've seen the short description that was published in The X Resource, but am looking for something with a bit more depth to it."
+  예측 클래스 쪽 기여 단어: bit(+0.37), looking(+0.30), published(+0.13), information(+0.12), work(+0.09), description(+0.05)
+  실제 클래스 쪽 기여 단어: resource(+0.31), consortium(+0.21), work(+0.16), done(+0.10), information(+0.09), depth(+0.09)
+
+[en-01025] 예측: comp.graphics (0.33) / 실제: comp.windows.x (0.27), 토큰 40개
+  문서: "I try to unsubscribe from this group by sending an email but that doesn't work. Could some one tell me the listserv address and command for me to unsubcribe ? I am leaving this Friday (30th April 93) and the mail box will overflow soon after that. Thanks ---------------------------------------------…"
+  예측 클래스 쪽 기여 단어: mail(+0.22), research(+0.17), address(+0.09), email(+0.09), university(+0.08), thanks(+0.07)
+  실제 클래스 쪽 기여 단어: thanks(+0.14), try(+0.10), fax(+0.09), email(+0.09), work(+0.09), command(+0.09)
+
+[en-04602] 예측: comp.graphics (0.32) / 실제: comp.windows.x (0.19), 토큰 18개
+  문서: "For all those people flaming John Bradley, the author of xv - he's on vacation till May 10 (or 15, I don't remember). Maybe we all should slow down and wait to hear his side wrt copyrights, fees, etc."
+  예측 클래스 쪽 기여 단어: xv(+0.22), hear(+0.20), author(+0.16), copyrights(+0.13), etc(+0.09), fees(+0.06)
+  실제 클래스 쪽 기여 단어: xv(+0.27), etc(+0.08), side(+0.04), john(+0.03), author(+0.03), vacation(+0.02)
+
+[en-03271] 예측: comp.graphics (0.32) / 실제: rec.sport.baseball (0.16), 토큰 16개
+  문서: "Doug, those stats are great! they help immensely. I tried to E-Mail you with some comments on them but my mail server does not recognize your address. Could you E-Mail me with some info on how to get E-Mail to you? Thanks!"
+  예측 클래스 쪽 기여 단어: mail(+0.60), help(+0.13), address(+0.12), thanks(+0.10), info(+0.08), tried(+0.06)
+  실제 클래스 쪽 기여 단어: stats(+0.29), great(+0.04), doug(+0.04), info(+0.03)
+
+[en-01465] 예측: sci.space (0.32) / 실제: comp.graphics (0.14), 토큰 8개
+  문서: "What is the copyright status of this data? Are there restrictions regarding the uses they can be put to? Kaveh"
+  예측 클래스 쪽 기여 단어: data(+0.26), put(+0.14), status(+0.10), regarding(+0.02)
+  실제 클래스 쪽 기여 단어: data(+0.08), restrictions(+0.01), uses(+0.00)
+
+[en-00971] 예측: sci.space (0.31) / 실제: rec.sport.baseball (0.22), 토큰 45개
+  문서: "It is ironic that in any post that criticizes langauge ability, the critic invariably makes a mistake himself ("english" is generally written "English".) Oddly, I do not see that I have contested any of that. Perhaps you, with assuredly greater "english" ability can explain, in tiny words that I mig…"
+  예측 클래스 쪽 기여 단어: explain(+0.17), perhaps(+0.09), things(+0.09), english(+0.04), mr(+0.03), said(+0.03)
+  실제 클래스 쪽 기여 단어: ability(+0.14), makes(+0.08), first(+0.06), post(+0.06), mr(+0.05), said(+0.04)
+
+[en-02133] 예측: rec.sport.hockey (0.30) / 실제: rec.sport.baseball (0.24), 토큰 21개
+  문서: "I was on vacation all last week and didn't see any news at all. Could somebody fill me in on how St. Louis ended up with Mark Whiten in a trade? Who did we give up Arocha, Allen Watson, Dmitri Young, or did Dal make a decent deal? :"
+  예측 클래스 쪽 기여 단어: deal(+0.16), trade(+0.13), last(+0.13), st(+0.13), louis(+0.07), decent(+0.04)
+  실제 클래스 쪽 기여 단어: last(+0.17), young(+0.13), week(+0.09), trade(+0.06), whiten(+0.03), decent(+0.02)
+
+[en-03347] 예측: sci.space (0.30) / 실제: rec.sport.hockey (0.21), 토큰 14개
+  문서: "Xenophobic trash deleted. If you're going to go to those extremes, I guess you'd better start packing. Because unless you're a Native North American, this isn't your continent either."
+  예측 클래스 쪽 기여 단어: american(+0.10), native(+0.09), unless(+0.09), deleted(+0.05), better(+0.04), continent(+0.04)
+  실제 클래스 쪽 기여 단어: north(+0.21), guess(+0.16), american(+0.06), continent(+0.01)
+
+[en-02525] 예측: comp.windows.x (0.30) / 실제: rec.sport.hockey (0.15), 토큰 18개
+  문서: "The r.s.h FAQ sheet never fails to crash my newsreader. The only way I can avoid crashing (and restarting the machine) is to look at the headers and avoid reading the FAQ. Does anyone else have problems reading the FAQ?"
+  예측 클래스 쪽 기여 단어: faq(+0.30), avoid(+0.13), headers(+0.09), machine(+0.08), fails(+0.05), crash(+0.03)
+  실제 클래스 쪽 기여 단어: never(+0.06), faq(+0.02), crash(+0.02), fails(+0.01)
+
+[en-04358] 예측: rec.sport.hockey (0.30) / 실제: rec.sport.baseball (0.24), 토큰 11개
+  문서: "You sure? This maybe a chronic syndrome. If it persists, we may have to banish you to the "Cub-crazy Sanatarium" in north Chicago... :-):-):-)"
+  예측 클래스 쪽 기여 단어: chicago(+0.26), north(+0.26), sure(+0.09), syndrome(+0.05), crazy(+0.02)
+  실제 클래스 쪽 기여 단어: cub(+0.21), chicago(+0.12), maybe(+0.07), sure(+0.03)
+
+[en-03862] 예측: rec.sport.baseball (0.30) / 실제: rec.sport.hockey (0.28), 토큰 39개
+  문서: "Just a quick note about Manon's immediate future: Rumor has it(USA Today's spor ts page) that she will be playing with Tampa Bay's affiliate in the ECHL(I Thin k. It's been a couple of days. :)) She will supposedly be competing for the num ber 2 goaltender spot. I think, after her performance, which…"
+  예측 클래스 쪽 기여 단어: year(+0.23), today(+0.09), spot(+0.07), atlanta(+0.06), come(+0.05), years(+0.05)
+  실제 클래스 쪽 기여 단어: playing(+0.19), played(+0.16), usa(+0.07), goaltender(+0.06), years(+0.05), year(+0.05)
+
+[en-00403] 예측: rec.sport.baseball (0.30) / 실제: rec.sport.hockey (0.20), 토큰 17개
+  문서: "[all kinds of unacceptably racist drivel deleted] And after that we find the man has absolutely nothing to say. Richard J. Rauser, you are a dishonourable little man. caustically, when necessary, rm"
+  예측 클래스 쪽 기여 단어: man(+0.29), absolutely(+0.09), nothing(+0.07), deleted(+0.07), little(+0.05), rauser(+0.03)
+  실제 클래스 쪽 기여 단어: rm(+0.14), richard(+0.06), rauser(+0.06), absolutely(+0.02), kinds(+0.02), man(+0.01)
+
+[en-03789] 예측: sci.space (0.29) / 실제: rec.sport.hockey (0.19), 토큰 22개
+  문서: "In the interests of saving badnwidth during this "heated" time of the year (viz. the early flurry of "retard" comments coming from a certain state whose name starts with P and ends with A), why don't you tell us something we don't already know? George"
+  예측 클래스 쪽 기여 단어: us(+0.24), state(+0.12), early(+0.08), george(+0.04), name(+0.03), certain(+0.03)
+  실제 클래스 쪽 기여 단어: tell(+0.09), year(+0.08), coming(+0.06), name(+0.02), state(+0.02), certain(+0.01)
+
+[en-01520] 예측: comp.graphics (0.29) / 실제: rec.sport.baseball (0.22), 토큰 130개
+  문서: "Hello, I'm doing a paper on censorship in music and I would appreciate it if you took the time to participate in this survey. Please answer as each question asks ('why?' simply means that you have room to explain your answer, if you chose.). The last question is for any comments, questions, or sugge…"
+  예측 클래스 쪽 기여 단어: please(+0.17), yes(+0.15), mail(+0.10), suggestions(+0.08), paper(+0.07), answer(+0.05)
+  실제 클래스 쪽 기여 단어: music(+0.14), hit(+0.13), age(+0.06), last(+0.06), minors(+0.06), person(+0.04)
+
+[en-02958] 예측: comp.graphics (0.28) / 실제: comp.windows.x (0.24), 토큰 138개
+  문서: "1993 Andrew Tutorial and Technical Conference When: Thursday and Friday, June 24 and 25, 1993 (Deadline for Registration: June 4, 1993) Where: Carnegie Mellon University in Pittsburgh, Pennsylvania. Sponsor: Andrew Consortium of CMU's School of Computer Science. Schedule: The Tutorial will be on Thu…"
+  예측 클래스 쪽 기여 단어: conference(+0.14), please(+0.11), computer(+0.11), registration(+0.08), technical(+0.06), phone(+0.06)
+  실제 클래스 쪽 기여 단어: conference(+0.12), tutorial(+0.09), andrew(+0.08), consortium(+0.07), email(+0.05), fee(+0.05)
+
+[en-00027] 예측: sci.space (0.28) / 실제: comp.graphics (0.26), 토큰 11개
+  문서: "A brilliant algorithm. *NOT* Seriously - it's correct, up to a sign change. The flaw is obvious, and will therefore not be shown. sorry about that."
+  예측 클래스 쪽 기여 단어: sorry(+0.14), sign(+0.07), seriously(+0.07), flaw(+0.04), obvious(+0.03), therefore(+0.02)
+  실제 클래스 쪽 기여 단어: algorithm(+0.38), correct(+0.08), shown(+0.06), sorry(+0.04), change(+0.00)
+
+[en-00943] 예측: rec.sport.baseball (0.28) / 실제: sci.space (0.25), 토큰 14개
+  문서: "Where does the shadow come from? There's nothing close enough to block sunlight from hitting them. I wouldn't expect there to be anything block our view of them either. What am I missing?"
+  예측 클래스 쪽 기여 단어: hitting(+0.29), either(+0.08), come(+0.08), block(+0.08), nothing(+0.07), expect(+0.04)
+  실제 클래스 쪽 기여 단어: enough(+0.17), close(+0.05), sunlight(+0.04), shadow(+0.02), expect(+0.02), anything(+0.01)
+
+[en-01640] 예측: comp.windows.x (0.28) / 실제: comp.graphics (0.27), 토큰 6개
+  문서: "Try graPHIGS from IBM... It is an excellent package! :^) Doug"
+  예측 클래스 쪽 기여 단어: try(+0.24), package(+0.22), doug(+0.03), excellent(+0.02), graphigs(+0.00)
+  실제 클래스 쪽 기여 단어: package(+0.28), ibm(+0.27), try(+0.07), graphigs(+0.02)
+
+[en-03129] 예측: comp.windows.x (0.28) / 실제: rec.sport.hockey (0.27), 토큰 6개
+  문서: "Gerry Cheevers used to have a mask that had stitches painted all over it."
+  예측 클래스 쪽 기여 단어: mask(+0.35), used(+0.15)
+  실제 클래스 쪽 기여 단어: mask(+0.61), gerry(+0.18)
+
+[en-04076] 예측: sci.space (0.28) / 실제: comp.graphics (0.22), 토큰 7개
+  문서: "Archer> How about "Interactive Sex with Madonna"? or "Sexium" for short. /Lars"
+  예측 클래스 쪽 기여 단어: short(+0.22)
+  실제 클래스 쪽 기여 단어: interactive(+0.15), short(+0.00)
+
+[en-03957] 예측: sci.space (0.28) / 실제: rec.sport.hockey (0.21), 토큰 19개
+  문서: "(much mindless drivel deleted) Question to you Canadian folk: is this University of New Brunswick a branch campus of the Western Business School? Seems like the same sort of rectal appendage belongs to both of them."
+  예측 클래스 쪽 기여 단어: question(+0.09), new(+0.06), deleted(+0.05), folk(+0.04), sort(+0.04), branch(+0.04)
+  실제 클래스 쪽 기여 단어: canadian(+0.20), western(+0.12), school(+0.09), brunswick(+0.07), business(+0.03), folk(+0.00)
+
+[en-01747] 예측: rec.sport.baseball (0.27) / 실제: comp.graphics (0.21), 토큰 12개
+  문서: "Wow! A 68070! I'd be very interested to get my hands on one of these, especially considering the fact that Motorola has not yet released the 68060, which is supposedly the next in the 680x0 lineup. 8-D"
+  예측 클래스 쪽 기여 단어: lineup(+0.12), fact(+0.11), wow(+0.08), interested(+0.08), released(+0.05), next(+0.04)
+  실제 클래스 쪽 기여 단어: motorola(+0.18), interested(+0.17), yet(+0.10), supposedly(+0.06), hands(+0.05), released(+0.00)
+
+[en-03607] 예측: sci.space (0.27) / 실제: rec.sport.hockey (0.21), 토큰 9개
+  문서: "Good comeback, Rog. Your quick wit and intelligence continues to amaze everyone."
+  예측 클래스 쪽 기여 단어: everyone(+0.09), intelligence(+0.03), wit(+0.01), continues(+0.00)
+  실제 클래스 쪽 기여 단어: everyone(+0.06), wit(+0.05), quick(+0.04), good(+0.03), comeback(+0.01), intelligence(+0.01)
+
+[en-00168] 예측: sci.space (0.27) / 실제: comp.graphics (0.21), 토큰 17개
+  문서: "Douglas Adams once said (paraphrased from memory): "I just picked it. It seemed like the sort of number you wouldn't be afraid to take home to meet your parents. Nice and even, perfectly normal.""
+  예측 클래스 쪽 기여 단어: seemed(+0.11), afraid(+0.08), perfectly(+0.08), adams(+0.06), said(+0.05), sort(+0.04)
+  실제 클래스 쪽 기여 단어: number(+0.18), douglas(+0.09), nice(+0.09), memory(+0.08), normal(+0.06), adams(+0.02)
+
+[en-00736] 예측: sci.space (0.26) / 실제: comp.graphics (0.25), 토큰 20개
+  문서: "Read Issue #2 of Wired Magazine. It has a long article on the "hype" of 3DO. I've noticed that every article talks with the designers and how "great" it is, but never show any pictures of the output (or at least pictures that one can understand)"
+  예측 클래스 쪽 기여 단어: long(+0.12), pictures(+0.08), talks(+0.04), every(+0.04), never(+0.03), understand(+0.03)
+  실제 클래스 쪽 기여 단어: pictures(+0.25), article(+0.19), understand(+0.09), output(+0.08), magazine(+0.08), wired(+0.06)
+
+[en-03235] 예측: rec.sport.hockey (0.26) / 실제: rec.sport.baseball (0.24), 토큰 8개
+  문서: "No one says you have to read any of it Ralph.. Go play in traffic.., or take a nap... They work for me.."
+  예측 클래스 쪽 기여 단어: play(+0.53), take(+0.22), ralph(+0.02)
+  실제 클래스 쪽 기여 단어: play(+0.21), says(+0.12), take(+0.07), read(+0.03)
+
+[en-00584] 예측: rec.sport.hockey (0.26) / 실제: rec.sport.baseball (0.23), 토큰 19개
+  문서: "ok - sorry about that...i didn't realise he was being sarcastic about those sort of things. but i'll tell you, mike lupica (daily news) usually says some pretty funny things in his "shooting from the lip" columns..."
+  예측 클래스 쪽 기여 단어: shooting(+0.12), mike(+0.12), tell(+0.08), ok(+0.08), funny(+0.06), pretty(+0.03)
+  실제 클래스 쪽 기여 단어: mike(+0.15), daily(+0.11), ok(+0.09), pretty(+0.09), says(+0.07), lupica(+0.04)
+
+[en-00097] 예측: rec.sport.baseball (0.25) / 실제: comp.graphics (0.16), 토큰 13개
+  문서: "No, VGALIB? Amazing.. I guess it was lost in all those subdirs :-) Thanks for correcting me. It doesn't sound very appealing though, only 320x200? I'm glad it wasn't something major I missed."
+  예측 클래스 쪽 기여 단어: lost(+0.13), major(+0.11), though(+0.05), guess(+0.03), missed(+0.02), amazing(+0.01)
+  실제 클래스 쪽 기여 단어: thanks(+0.13), sound(+0.08), glad(+0.01), amazing(+0.01)
+
+[en-03349] 예측: sci.space (0.23) / 실제: rec.sport.hockey (0.17), 토큰 57개
+  문서: "Again I assume this is not just flame bait by Roger, but actually a truly held opinion. Thanks. For speaking for all those who didn't feel it was important enough to say something themselves. I wouldn't say that the letter clearly implies representation of the views of a group that you belong to. It…"
+  예측 클래스 쪽 기여 단어: enough(+0.08), mind(+0.07), assume(+0.07), state(+0.05), several(+0.04), used(+0.03)
+  실제 클래스 쪽 기여 단어: roger(+0.14), letter(+0.11), group(+0.08), realize(+0.06), goes(+0.04), moderated(+0.03)
+
+[en-00288] 예측: sci.space (0.23) / 실제: comp.graphics (0.20), 토큰 9개
+  문서: "Just posting to John Cormack. I wanted to tell you that there is a "slight" difference between Speedstar 24 and Speedstar 24X"
+  예측 클래스 쪽 기여 단어: wanted(+0.10), difference(+0.05), slight(+0.02), posting(+0.00)
+  실제 클래스 쪽 기여 단어: speedstar(+0.27)
+
+[en-02993] 예측: comp.graphics (0.22) / 실제: sci.space (0.16), 토큰 6개
+  문서: "YES! Give me his name I would greatly appreciate it. Rich"
+  예측 클래스 쪽 기여 단어: greatly(+0.23), yes(+0.22), give(+0.03)
+  실제 클래스 쪽 기여 단어: name(+0.05)

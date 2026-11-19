@@ -20,3 +20,7 @@ projects/a1-1-customer-analysis/data/processed/image_arrays.npy
 # Credentials
 kaggle.json
 .env
+
+# A4-1 datasets and tokenizer cache (re-downloaded automatically)
+projects/a4-1-document-search/data/raw/
+projects/a4-1-document-search/data/cache/

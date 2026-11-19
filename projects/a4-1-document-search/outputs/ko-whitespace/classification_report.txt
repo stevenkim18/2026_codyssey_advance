@@ -1,0 +1,23 @@
+=== 분류 성능 평가 ===
+데이터: ko-whitespace
+모델: LogisticRegression(C=1.0, max_iter=2000, random_state=42), 특성: 직접 구현 TF-IDF (tf=raw, smooth_idf=True, l2, min_df=2, Train에서만 fit)
+분할: Train 5,598 / Test 1,400 (8:2, stratify, random_state=42)
+어휘 크기(Train 기준): 5,184
+
+정확도: 0.706
+F1-Score (macro): 0.710
+
+              precision    recall  f1-score   support
+
+        IT과학      0.707     0.725     0.716       200
+          경제      0.709     0.635     0.670       200
+          사회      0.428     0.520     0.470       200
+        생활문화      0.724     0.710     0.717       200
+          세계      0.757     0.715     0.735       200
+         스포츠      0.893     0.835     0.863       200
+          정치      0.796     0.800     0.798       200
+
+    accuracy                          0.706      1400
+   macro avg      0.716     0.706     0.710      1400
+weighted avg      0.716     0.706     0.710      1400
+

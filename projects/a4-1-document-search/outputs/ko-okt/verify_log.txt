@@ -1,0 +1,41 @@
+=== TF-IDF 구현 검증 결과 ===
+데이터: ko (okt), 문서 7,000건
+환경: Python 3.13.5, NumPy 2.5.3, scikit-learn 1.9.1
+공통 sklearn 설정: TfidfVectorizer(analyzer=<전처리된 토큰 그대로>, lowercase=False, min_df=2, dtype=float64)
+
+[검증 1: 기본 설정] 직접 구현 vs Scikit-learn
+  - 직접 구현 설정: NumpyTfidf(tf='raw', smooth_idf=True, norm='l2', min_df=2)
+  - sklearn 설정 : sublinear_tf=False, smooth_idf=True, norm='l2'
+  - TF-IDF 행렬 shape: (7000, 6332), 어휘 일치: True, 0이 아닌 위치 일치: True
+  - IDF 최대 오차: 0.00e+00
+  - 최대 오차: 2.22e-16
+  - 평균 오차: 1.36e-20
+  - 결과: PASS (허용 오차 1e-06 이내)
+
+[검증 2: 추가 설정] 직접 구현 vs Scikit-learn
+  - 직접 구현 설정: NumpyTfidf(tf='log', smooth_idf=True, norm='l2', min_df=2)
+  - sklearn 설정 : sublinear_tf=True, smooth_idf=True, norm='l2'
+  - TF-IDF 행렬 shape: (7000, 6332), 어휘 일치: True, 0이 아닌 위치 일치: True
+  - IDF 최대 오차: 0.00e+00
+  - 최대 오차: 2.22e-16
+  - 평균 오차: 1.35e-20
+  - 결과: PASS (허용 오차 1e-06 이내)
+
+[검증 3: 추가 설정] 직접 구현 vs Scikit-learn
+  - 직접 구현 설정: NumpyTfidf(tf='raw', smooth_idf=False, norm='l2', min_df=2)
+  - sklearn 설정 : sublinear_tf=False, smooth_idf=False, norm='l2'
+  - TF-IDF 행렬 shape: (7000, 6332), 어휘 일치: True, 0이 아닌 위치 일치: True
+  - IDF 최대 오차: 0.00e+00
+  - 최대 오차: 2.22e-16
+  - 평균 오차: 1.23e-20
+  - 결과: PASS (허용 오차 1e-06 이내)
+
+[검증 4: 추가 설정] 직접 구현 vs Scikit-learn
+  - 직접 구현 설정: NumpyTfidf(tf='raw', smooth_idf=True, norm=None, min_df=2)
+  - sklearn 설정 : sublinear_tf=False, smooth_idf=True, norm=None
+  - TF-IDF 행렬 shape: (7000, 6332), 어휘 일치: True, 0이 아닌 위치 일치: True
+  - IDF 최대 오차: 0.00e+00
+  - 최대 오차: 0.00e+00
+  - 평균 오차: 0.00e+00
+  - 결과: PASS (허용 오차 1e-06 이내)
+

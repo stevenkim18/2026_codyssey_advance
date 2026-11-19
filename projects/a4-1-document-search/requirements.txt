@@ -1,0 +1,15 @@
+# A4-1 TF-IDF 문서 검색·분류 (Python 3.13 에서 확인, 3.10 이상)
+# 핵심 계산 (TF-IDF, 코사인 유사도)
+numpy==2.5.3
+# 데이터 처리
+pandas==3.0.6
+# 분류 모델·평가, TF-IDF 검증, 20 Newsgroups 로드
+scikit-learn==1.9.1
+# 혼동 행렬 그림
+matplotlib==3.11.2
+# 영어 불용어
+nltk==3.10.3
+# 한국어 형태소 분석 (Okt, Java 8 이상 필요)
+konlpy==0.6.0
+# 테스트
+pytest==9.1.1
